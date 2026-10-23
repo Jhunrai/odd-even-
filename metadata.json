@@ -1,0 +1,8 @@
+{
+  "name": "GAME 24 Result Analyzer",
+  "description": "Advanced Game 24 Odd/Even statistical analyzer, probability forecast system, and walk-forward backtesting dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
